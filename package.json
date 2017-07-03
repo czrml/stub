@@ -1,0 +1,15 @@
+{
+  "name": "stub",
+  "version": "1.0.0",
+  "description": "A simple stub creating program, creating nested functions and properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha . --watch"
+  },
+  "author": "@czrm",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
