@@ -2,6 +2,8 @@
 
 > A simple stub creating program, creating nested functions and properties
 
+[![Build Status](https://travis-ci.org/czrm/stub.svg?branch=master)](https://travis-ci.org/czrm/stub)
+
 ## Definition
 
 The stub method receives a string defining the stub and a return value, e.g. `stub('a.b.c.d', 1) \\ a.b.c.d is equal to 1`

@@ -5,4 +5,5 @@ notifications:
   email:
     recipients:
       - cezar.mal@hotmail.com
+    on_success: never
     on_failure: always
