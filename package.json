@@ -4,7 +4,7 @@
   "description": "A simple stub creating program, creating nested functions and properties",
   "main": "index.js",
   "scripts": {
-    "test": "mocha . --watch"
+    "test": "mocha ."
   },
   "author": "@czrm",
   "license": "MIT",
